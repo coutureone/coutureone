@@ -1,9 +1,17 @@
-### coutureone <img align="right" src="https://raw.githubusercontent.com/coutureone/iBeats/main/files/heart.svg" alt="My Heart Beats" width="100" />
+<img align="right" src="https://raw.githubusercontent.com/coutureone/iBeats/main/files/heart.svg" alt="My Heart Beats" width="100" />
 
-你好~ 我是 Couture，生活在杭州。喜欢技术，喜欢[运动](https://run.xcouture.cc/)，也喜欢记录一些[琐碎](https://blog.xcouture.cc/)的东西。
+### 你好，我是 Couture.
 
-物来顺应，未来不迎，当时不杂，既过不恋。
+生活在杭州。  
+喜欢技术，喜欢运动，也喜欢记录一些琐碎、缓慢、真实的东西。
 
+<p>
+  <a href="https://run.xcouture.cc/">🏃 运动</a> ·
+  <a href="https://blog.xcouture.cc/">✍️ 博客</a> ·
+  <a href="mailto:couturecome@gmail.com">📮 联系我</a>
+</p>
 
+<br />
 
-如果你有问题，可以联系我的 📮 ~
+> 物来顺应，未来不迎，  
+> 当时不杂，既过不恋。
