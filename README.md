@@ -1,6 +1,6 @@
 <img align="right" src="https://raw.githubusercontent.com/coutureone/iBeats/main/files/heart.svg" alt="My heart beats" width="108" />
 
-# Hi, I'm Couture 👋
+### Hi, I'm Couture 👋
 
 A corporate workhorse living in Hangzhou — still running, still writing, still paying attention.
 
@@ -12,14 +12,12 @@ I enjoy turning small ideas into useful things and documenting the slow, ordinar
 
 <br clear="right" />
 
-## Right now
+### Right now
 
 - 🧩 Turning little ideas about technology, tools, and life into real things
 - 🏃 Moving with intention and keeping a record of every start
 - 📝 Collecting thoughts and fragments from this year in [`2026`](https://github.com/coutureone/2026)
 - 🌱 Staying curious, playing the long game, and continuing to create
-
----
 
 > Meet things as they come. Do not chase what has yet to arrive.  
 > Stay present in the moment. Let go when it has passed.
